@@ -82,6 +82,7 @@ body{
     white-space: nowrap;
     color: #7E7E82;
     border: 2px solid transparent;
+    margin-bottom: 24px;
 }
 .buttons__link:hover{
     background: #FFFFFF;
