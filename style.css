@@ -6,9 +6,7 @@
 }
 @font-face{ 
 font-family: "TT Lakes";
-  src:
-    local("TT Lakes"),
-    url("TTLakes/TTLakes-Black.woff") format("woff");
+  src: url("/TTLakes/TTLakes-Black.woff") format("woff");
 }
 body{
     background: #F8F8F8;
@@ -71,6 +69,7 @@ body{
 .description-buttons{
     display: flex;
     overflow: auto;
+    margin-bottom: 30px;
 }
 .description-buttons::-webkit-scrollbar{
      width: 0; 
