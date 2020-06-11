@@ -187,15 +187,14 @@ section{
     .img__company{
         width: 360px;
         margin-right: 24px;
-        margin-bottom: 40px;
+        /*margin-bottom: 40px;*/
+        border-radius: 10px;
     }
     .detales__text{
         margin-left: 24px;
         margin-right: 6%;
     }
-    .img__company{
-        border-radius: 10px;
-    }
+  
     .text__visible{
         margin-bottom: 25px;
     }
@@ -230,7 +229,7 @@ section{
     }
     .img__company {
         width: 531px;
-        margin-bottom: 10%;
+        /*margin-bottom: 10%;*/
     }
     
     .text__tablet-visible, .text__desktop-visible {
