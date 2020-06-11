@@ -4,12 +4,7 @@
     padding: 0px;
     font-family: TT Lakes, sans-serif;
 }
-@font-face {
-font-family: "TT Lakes";
-  src:
-    local("TT Lakes"),
-    url("TTLakes-Black.woff") format("woff");
-}
+
 body{
     background: #F8F8F8;
 }
