@@ -6,7 +6,7 @@
 }
 @font-face{ 
 font-family: "TT Lakes";
-  src: url("/TTLakes/TTLakes-MediumItalic.woff") format("woff");
+  src: url("/TTLakes/TTLakes-Regular.woff") format("woff");
 }
 body{
     background: #F8F8F8;
